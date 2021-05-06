@@ -1,6 +1,9 @@
 # Makrokeypad
 Makrokeypad GUI Windows
 
+Script will be generated for Pi Pico with circutpython
+
+Buttons have to solder on GPIO 0-9
 
 1.  Please install python.exe
     (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
