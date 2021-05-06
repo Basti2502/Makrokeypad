@@ -7,7 +7,7 @@ Please install python.exe
 
 make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
 
-Download the Folder "gen" and put it in the Download folder. 
+Download the Folder "gen", extract it and put it in the Download folder. 
 
 Run file "Step 1"
 
