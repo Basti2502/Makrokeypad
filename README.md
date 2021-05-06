@@ -16,6 +16,12 @@ Buttons have to solder on GPIO 0-9
 
 5.  Type in your Keycodes
 
+    IMPORTANT: You have to fill ALL gaps!
+    
+    If you like to simulate more than one Key you must do this structure:
+    
+                Example1, Keycode.Example2, Keycode.Example3, ...
+
 6.  Press save
 
 7.  Close the Windows 
