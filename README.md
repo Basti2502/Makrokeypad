@@ -2,29 +2,28 @@
 Makrokeypad GUI Windows
 
 
-Please install python.exe
-(https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
+1.  Please install python.exe
+    (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
 
-make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
+2.  make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
 
-Download the Folder "gen", extract it and put it in the Download folder. 
+3.  Download the Folder "gen", extract it and put it in the Download folder. 
 
-Run file "Step 1"
+4.  Run file "Step 1"
 
-Type in your Keycodes
+5.  Type in your Keycodes
 
-Press save
+6.  Press save
 
-Close the Windows 
+7.  Close the Windows 
 
-Run file "Step 2"
+8.  Run file "Step 2"
 
-Congratulation!!!
-you have generated the final file "code.py"
+9.  Congratulation!!! You have generated the final file "code.py"
 
-copy the file "code.py" to your circutpy
+10. copy the file "code.py" to your circutpy
 
-plug your pi out and in 
+11. Plug your pi out and in 
 
-now it works!
+12. Now it works!
 
