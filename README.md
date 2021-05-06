@@ -1,14 +1,15 @@
-# Makrokeypad
-Makrokeypad GUI Windows
+# Makrokeypad GUI Windows <h2> 
+Script will be generated for Pi Pico with Circuitpython
 
-Script will be generated for Pi Pico with circutpython
+Buttons have to solder on GPIO 0-9 and 3.3V port
 
-Buttons have to solder on GPIO 0-9
+
+### How to? <h2>
 
 1.  Please install python.exe
-    (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe)
+    > (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
 
-2.  make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
+2.  Make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
 
 3.  Download the Folder "gen", extract it and put it in the Download folder. 
 
@@ -16,7 +17,7 @@ Buttons have to solder on GPIO 0-9
 
 5.  Type in your Keycodes
 
-    IMPORTANT: You have to fill ALL gaps!
+    IMPORTANT: You have to fill ALL gaps!_
     
     If you like to simulate more than one Key you must do this structure:
     
@@ -30,9 +31,10 @@ Buttons have to solder on GPIO 0-9
 
 9.  Congratulation!!! You have generated the final file "code.py"
 
-10. copy the file "code.py" to your circutpy
+10. Copy the file "code.py" to your circutpy
 
 11. Plug your pi out and in 
 
 12. Now it works!
+
 
