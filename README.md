@@ -24,7 +24,7 @@ you have generated the final file "code.py"
 
 copy the file "code.py" to your circutpy
 
-plug your pi in and out
+plug your pi out and in 
 
 now it works!
 
