@@ -1,6 +1,6 @@
 
 
-# Makrokeypad GUI Windows <h2> 
+# Makrokeypad GUI Windows | still in progress <h2> 
 Script will be generated for Pi Pico with Circuitpython
 
 Buttons have to solder on GPIO 0-9 and 3.3V port
