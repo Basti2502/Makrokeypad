@@ -1,6 +1,4 @@
-![IMG_5690](https://user-images.githubusercontent.com/73909061/117583885-f0efc700-b109-11eb-931a-10f14d86006f.jpg)
-![IMG_5689](https://user-images.githubusercontent.com/73909061/117583892-f77e3e80-b109-11eb-82d3-930b62e07429.jpg)
-![IMG_5715](https://user-images.githubusercontent.com/73909061/117583897-006f1000-b10a-11eb-92e2-95f7a1b1191a.JPG)
+
 # Makrokeypad GUI Windows <h2> 
 Script will be generated for Pi Pico with Circuitpython
 
