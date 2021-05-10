@@ -33,7 +33,7 @@ Version 1.0
 
 5.  Type in your Keycodes
 
-    IMPORTANT: You have to fill ALL gaps!_
+    IMPORTANT: You have to fill ALL gaps!
     
     If you like to simulate more than one Key you must do this structure:
     
