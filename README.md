@@ -27,9 +27,9 @@ Version 1.0
 
 2.  Make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
 
-3.  Download the Folder "gen", extract it and put it in the Download folder. 
+3.  Download the Folder `gen`, extract it and put it in the Download folder. 
 
-4.  Run file "Step 1"
+4.  Run file `Step 1`
 
 5.  Type in your Keycodes
 
@@ -43,11 +43,11 @@ Version 1.0
 
 7.  Close the Windows 
 
-8.  Run file "Step 2"
+8.  Run file `Step 2`
 
 9.  Congratulation!!! You have generated the final file "code.py"
 
-10. Copy the file "code.py" to your circutpy
+10. Copy the file `code.py` to your circutpy
 
 11. Plug your pi out and in 
 
