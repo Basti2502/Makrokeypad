@@ -1,12 +1,24 @@
 
 
-# Makrokeypad GUI Windows | still in progress <h2> 
-Script will be generated for Pi Pico with Circuitpython
+# Makrokeypad with GUI Software | still in progress <h2> 
 
-Buttons have to solder on GPIO 0-9 and 3.3V port
+### Preperation <h3>
 
+1. Solder 9 Keyboard switches on GPIO 0 - 9 and 3.3V port 
+ 
+2. Install CircuitPython on the Pi Pico 
+   > (https://www.youtube.com/watch?v=1xctZfhZt_g)
 
-### How to? <h2>
+3. Install the adafruit_hid libary's
+
+4. Follow the following steps
+
+5. Script will be generated for Pi Pico with Circuitpython
+
+6. Use with 3d printed case and keycaps 
+    > (https://www.thingiverse.com/thing:4816077)
+
+### Software | How to? <h2>
 
 1.  Please install python.exe on your PC
     > (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
