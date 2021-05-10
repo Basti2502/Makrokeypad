@@ -12,6 +12,7 @@ Version 1.0
    > (https://www.youtube.com/watch?v=1xctZfhZt_g)
 
 3. Install the adafruit_hid libary's
+   > (https://circuitpython.readthedocs.io/projects/hid/en/latest/)
 
 4. Follow the software installation steps
 
