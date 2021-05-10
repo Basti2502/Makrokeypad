@@ -13,7 +13,7 @@ Version 1.0
 
 3. Install the adafruit_hid libary's
 
-4. Follow the following steps
+4. Follow the software installation steps
 
 5. Script will be generated for Pi Pico with Circuitpython
 
