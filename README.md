@@ -8,7 +8,7 @@ Buttons have to solder on GPIO 0-9 and 3.3V port
 
 ### How to? <h2>
 
-1.  Please install python.exe
+1.  Please install python.exe on your PC
     > (https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
 
 2.  Make sure you have installed the requiered libarys (Adafruit_HID) on your cicutpy.
@@ -38,6 +38,12 @@ Buttons have to solder on GPIO 0-9 and 3.3V port
 11. Plug your pi out and in 
 
 12. Now it works!
+
+### Updates? <h3>
+
+I am developing an preset funktion to save 1 - 5 Presets
+Comming soon!!!
+
 
 ### Galerie <h3>
     
