@@ -1,6 +1,8 @@
 
 
 # Makrokeypad with GUI Software | still in progress <h2> 
+ 
+Version 1.0
 
 ### Preperation <h3>
 
