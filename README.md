@@ -32,6 +32,8 @@ Version 1.0
 
 4.  Run file `Step 1`
 
+    Accept Windows Defender
+
 5.  Type in your Keycodes
 
     IMPORTANT: You have to fill ALL gaps!
@@ -45,6 +47,8 @@ Version 1.0
 7.  Close the Windows 
 
 8.  Run file `Step 2`
+
+    Accept Windows Defender
 
 9.  Congratulation!!! You have generated the final file "code.py"
 
